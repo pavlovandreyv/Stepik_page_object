@@ -5,4 +5,4 @@ class MainPageLocators():
 
 class LoginPageLocators():
     LOG_IN = (By.CSS_SELECTOR, "[value='Log In']")
-    REGISTER = (By.CSS_SELECTOR, "[value='Register1']")
+    REGISTER = (By.CSS_SELECTOR, "[value='Register']")
